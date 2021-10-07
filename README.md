@@ -32,4 +32,4 @@ Questions to be explored are:
    - Despite being the first country to start the mass-vaccination program, the United States faced a significant headwind and has fallen much behind the other countries.
    - Lastly, Central and Eastern Europeans are the most resistant in getting vaccinated.
 
-Further explanation on the answers to these questions can be found in the iPython Jupyter notebook `COVID-19 Vaccine Inequity and Hesitancy.ipynb` and also on [my blog post]().
+Further explanation on the answers to these questions can be found in the iPython Jupyter notebook `COVID-19 Vaccine Inequity and Hesitancy.ipynb` and also on [my blog post](https://jpactuario.medium.com/covid-19-vaccine-inequity-and-hesitancy-427a36034117).
